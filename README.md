@@ -1,4 +1,4 @@
-# NUS SoC UROP LaTeX Template
+# NUS SoC LaTeX Template
 
 LaTeX template for NUS SoC UROP/FYP final report.
 Made based on
